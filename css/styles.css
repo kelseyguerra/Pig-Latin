@@ -1,0 +1,27 @@
+h1 {
+font-family: cursive;
+border: 1px dotted;
+border-radius: 60px;
+background-color: rgb(146, 59, 119, .80);
+margin-top: 60px;
+}
+
+.container {
+  background-color: pink;
+  color: beige;
+  text-align: center;
+}
+#instructions {
+  margin-top: 20px;
+}
+#english {
+  font-family: serif;
+  background-color: rgb(146, 59, 119, .80);
+  padding: 20px;
+border: 2px dotted;
+}
+#translation {
+  margin: 80px;
+  padding: 100px;
+  max-width: 900px;
+}
